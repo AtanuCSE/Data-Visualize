@@ -4,11 +4,11 @@ A basic project type course from Coursera.
 
 ## Topics
 
-- Pandas plot basic
-- Matplotlib.pyplot basic
-- Seaborn Scatterplot basic
-- Seaborn Regression plot
-- Seaborn Heatmap
-- Seaborn jointplot
+- (Pandas plot basic)[01_Pandas_Plot_Basics.ipynb]
+- (Matplotlib.pyplot basic)
+- (Seaborn Scatterplot basic)
+- (Seaborn Regression plot)
+- (Seaborn Heatmap)
+- (Seaborn jointplot)
   - (Histogram and Scatterplot)
   - (Histogram, Scatterplot, and Regression)
