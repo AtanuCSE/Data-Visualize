@@ -5,7 +5,7 @@ Data Visualization Code snippet
 # 1. Data-Visualize-with-Python-Coursera
 A basic project type course from Coursera.
 
-## [Data Visualize with Python - Coursera Link](https://www.coursera.org/projects/data-visualization-with-python)
+### [Data Visualize with Python - Coursera Link](https://www.coursera.org/projects/data-visualization-with-python)
 
 ### Topics
 
