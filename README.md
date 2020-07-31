@@ -9,12 +9,12 @@ A basic project type course from Coursera.
 
 ### Topics
 
-- Pandas plot basic
-- Matplotlib.pyplot basic
-- Seaborn Scatterplot basic
-- Seaborn Regression plot
-- Seaborn Heatmap
-- Seaborn jointplot
+- [Pandas plot basic](https://github.com/AtanuCSE/Data-Visualize/blob/master/Data-Visualize-with-Python-Coursera/01_Pandas_Plot_Basics.ipynb)
+- [Matplotlib.pyplot basic](https://github.com/AtanuCSE/Data-Visualize/blob/master/Data-Visualize-with-Python-Coursera/02_Matplot_Basics.ipynb)
+- [Seaborn Scatterplot basic](https://github.com/AtanuCSE/Data-Visualize/blob/master/Data-Visualize-with-Python-Coursera/03_ScatterPlot.ipynb)
+- [Seaborn Regression plot](https://github.com/AtanuCSE/Data-Visualize/blob/master/Data-Visualize-with-Python-Coursera/03_ScatterPlot.ipynb)
+- [Seaborn Heatmap](https://github.com/AtanuCSE/Data-Visualize/blob/master/Data-Visualize-with-Python-Coursera/04_HeatMap.ipynb)
+- [Seaborn jointplot](https://github.com/AtanuCSE/Data-Visualize/blob/master/Data-Visualize-with-Python-Coursera/05_JoinPlot.ipynb)
   - (Histogram and Scatterplot)
   - (Histogram, Scatterplot, and Regression)
 
