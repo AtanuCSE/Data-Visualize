@@ -18,3 +18,7 @@ A basic project type course from Coursera.
   - (Histogram and Scatterplot)
   - (Histogram, Scatterplot, and Regression)
 
+# 2. Play-Ground
+
+### Topics
+- [Matplotlib PIE Chart](https://github.com/AtanuCSE/Data-Visualize/blob/master/Play-Ground/01_Matplotlib_PIE_Chart.ipynb)
