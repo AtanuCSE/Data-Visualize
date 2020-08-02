@@ -35,7 +35,7 @@ A basic project type course from Coursera.
   *   **Normalized** Histogram (Probability Density)
   *   Histogram with **Multple Group / Feature / Attribute**
 
--  02_Plotly_Hist_Bar
+- 02_Plotly_Hist_Bar
   *   Histogram by group data *(Example: How many Houses contains bedrooms within range 0-4)*
   *   **Overlay Histogram** *(Example: Comparison of multiple histogram in same chart)*
   *   Simple Bar Plot
