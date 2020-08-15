@@ -21,7 +21,9 @@ A basic project type course from Coursera.
 # 2. Play-Ground
 
 ### Topics
-- [Matplotlib PIE Chart](https://github.com/AtanuCSE/Data-Visualize/blob/master/Play-Ground/01_Matplotlib_PIE_Chart.ipynb)
+- [01_Matplotlib PIE Chart](https://github.com/AtanuCSE/Data-Visualize/blob/master/Play-Ground/01_Matplotlib_PIE_Chart.ipynb)
+
+- [02_Matplotlib Bubble_chart](https://github.com/AtanuCSE/Data-Visualize/blob/master/Play-Ground/02_Matplotlib_Bubble.ipynb)
 
 # 3. Plotly-Cufflinks-ChartStudio
 
