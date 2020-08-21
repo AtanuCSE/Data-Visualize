@@ -47,3 +47,9 @@ A basic project type course from Coursera.
   *   **Total Bar Plot** *(Example: Total sum of money based on each name (groupby))*
   *   **Normal Bar Plot** *(Example: Price for each car)*
   *   **Multi-Column Normal Bar Plot** *(Example: what are the asking prices of same car in two different shops)*
+  
+# 4. Special-Cases
+
+### Topics
+- 01_Matplotlib_Discountinuous_Multiple_Column
+  * Plot Multiple Unequal Column with Missing Values
